@@ -6,7 +6,6 @@ ____
 
 ### My contacts:
 
-[<img align="left" alt="mazaytsevs | LinkedIn" width="60px" src="https://img.icons8.com/color/344/linkedin-circled--v3.png" />][linkedin]
 [<img align="left" alt="mazaytsevs | Telegram" width="60px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][telegram]
 [<img align="left" alt="mazaytsevs | WA" width="60px" src="https://img.icons8.com/color/344/whatsapp--v5.png" />][WA]
 [<img align="left" alt="mazaytsevs | Instagram" width="60px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
@@ -15,8 +14,8 @@ ____
 <br/>
 <br/>
 
-- ☎️: +79126246550
-- 📩: zaytseva.m.v@yandex.ru
+- ☎️: +79277036049
+- 📩: alex95po@gmail.com
 
 ____ 
 
@@ -42,16 +41,14 @@ And also: Sequelize, Sessions, BCrypt, Drag&Drop, Multer, Figma etc.
 <br/>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazaytsevs&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alpobaggins&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[resumeHH]: https://hh.ru/resume/03a4c77bff0b1625cc0039ed1f373751644145
-[linkedin]: https://linkedin.com/in/mazaytsevs
-[telegram]: https://t.me/mazay_tseva 
-[instagram]: https://www.instagram.com/mazay_tseva
-[git]: https://github.com/mazaytsevs
-[VK]: https://vk.com/mazay_tseva
-[WA]: https://wa.me/79126246550
+[telegram]: https://t.me/alpobaggins
+[instagram]: https://www.instagram.com/povpopov
+[git]: https://github.com/alpobaggins
+[VK]: https://vk.com/alpo95
+[WA]: https://wa.me/79277036049
 
 
 Here are some ideas to get you started:
