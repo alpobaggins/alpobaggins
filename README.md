@@ -6,15 +6,15 @@ ____
 
 ### My contacts:
 
-[<img align="left" alt="mazaytsevs | Telegram" width="60px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][telegram]
-[<img align="left" alt="mazaytsevs | WA" width="60px" src="https://img.icons8.com/color/344/whatsapp--v5.png" />][WA]
-[<img align="left" alt="mazaytsevs | VK" width="60px" src="https://img.icons8.com/color/344/vk-com.png" />][vk]
+[<img align="left" alt="alpobaggins | Telegram" width="60px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][telegram]
+[<img align="left" alt="alpobaggins | WA" width="60px" src="https://img.icons8.com/color/344/whatsapp--v5.png" />][WA]
+[<img align="left" alt="alpobaggins | VK" width="60px" src="https://img.icons8.com/color/344/vk-com.png" />][vk]
 <br/>
 <br/>
 <br/>
 
-- ☎️: +79277036049
-- 📩: alex95po@gmail.com
+- 📱: +79277036049
+- 📧: alex95po@gmail.com
 
 ____ 
 
