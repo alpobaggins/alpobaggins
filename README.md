@@ -8,7 +8,6 @@ ____
 
 [<img align="left" alt="mazaytsevs | Telegram" width="60px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][telegram]
 [<img align="left" alt="mazaytsevs | WA" width="60px" src="https://img.icons8.com/color/344/whatsapp--v5.png" />][WA]
-[<img align="left" alt="mazaytsevs | Instagram" width="60px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
 [<img align="left" alt="mazaytsevs | VK" width="60px" src="https://img.icons8.com/color/344/vk-com.png" />][vk]
 <br/>
 <br/>
@@ -45,7 +44,6 @@ And also: Sequelize, Sessions, BCrypt, Drag&Drop, Multer, Figma etc.
 
 
 [telegram]: https://t.me/alpobaggins
-[instagram]: https://www.instagram.com/povpopov
 [git]: https://github.com/alpobaggins
 [VK]: https://vk.com/alpo95
 [WA]: https://wa.me/79277036049
