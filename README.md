@@ -9,6 +9,7 @@ ____
 
 Frontend:
 <br/>
+<br/>
 <img align="left" alt="HTML" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" />
 <img align="left" alt="CSS" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" />
 <img align="left" alt="JavaScript" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" />
@@ -20,6 +21,7 @@ Frontend:
 <br/>
 <br/>
 Backend:
+<br/>
 <br/>
 <img align="left" alt="NodeJS" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" />
 <img align="left" alt="Express" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" />
