@@ -1,23 +1,9 @@
-### 👋 Hi everyone! I'm a Fullstack (Frontend/Backend) JavaScript Web developer...
-...with a constant desire for self-development! 💪
+### Hi everyone! My name is Alex and I'm a Fullstack JavaScript developer!🤓
 
-I love teamwork as well as solo projects! I am an extroverted introvert, so I am productive in any work environment.
+I love football, mixed martial arts, stand-up, movies and traveling. My dream is to have a dog.
+
+Oh...or you wanted to know more about my professional skills?
 ____
-
-### My contacts:
-
-[<img align="left" alt="alpobaggins | Telegram" width="60px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][telegram]
-[<img align="left" alt="alpobaggins | WA" width="60px" src="https://img.icons8.com/color/344/whatsapp--v5.png" />][WA]
-[<img align="left" alt="alpobaggins | VK" width="60px" src="https://img.icons8.com/color/344/vk-com.png" />][vk]
-<br/>
-<br/>
-<br/>
-
-- 📱: +79277036049
-- 📧: alex95po@gmail.com
-
-____ 
-
 
 ### My Skills:
 
@@ -41,21 +27,26 @@ And also: Sequelize, Sessions, BCrypt, Drag&Drop, Multer, Figma etc.
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alpobaggins&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+<br/>
+<br/>
+____ 
+
+### My contacts:
+
+- 📱: +79277036049
+- 📧: alex95po@gmail.com
+
+[<img align="left" alt="alpobaggins | Telegram" width="60px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][telegram]
+[<img align="left" alt="alpobaggins | WA" width="60px" src="https://img.icons8.com/color/344/whatsapp--v5.png" />][WA]
+[<img align="left" alt="alpobaggins | VK" width="60px" src="https://img.icons8.com/color/344/vk-com.png" />][vk]
+<br/>
+<br/>
+<br/>
+____ 
 
 
 [telegram]: https://t.me/alpobaggins
 [git]: https://github.com/alpobaggins
 [VK]: https://vk.com/alpo95
 [WA]: https://wa.me/79277036049
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
