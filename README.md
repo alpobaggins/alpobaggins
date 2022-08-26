@@ -49,9 +49,9 @@ ____
 ### Do you want to contact me?
 
 
-[<img align="left" alt="alpobaggins | Gmail" width="60px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][gmail]
-[<img align="left" alt="alpobaggins | Telegram" width="60px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][telegram]
-[<img align="left" alt="alpobaggins | WA" width="60px" src="https://img.icons8.com/color/344/whatsapp--v5.png" />][WA]
+[<img align="left" alt="alpobaggins | Gmail" width="60px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" />][gmail]
+[<img align="left" alt="alpobaggins | Telegram" width="60px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" />][telegram]
+[<img align="left" alt="alpobaggins | WA" width="60px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/WhatsApp.svg" />][WA]
 [<img align="left" alt="alpobaggins | VK" width="60px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/VK.svg" />][vk]
 <br/>
 <br/>
