@@ -27,7 +27,14 @@ Backend:
 <img align="left" alt="Express" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" />
 <img align="left" alt="PostgreSQL" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" />
 <img align="left" alt="Sequelize" width="60px" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" />
+<br/>
+<br/>
+<br/>
+Other:
+<br/>
+<br/>
 <img align="left" alt="Jest" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jest.svg" />
+<img align="left" alt="Github" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" />
 <br/>
 <br/>
 <br/>
@@ -41,12 +48,11 @@ ____
 
 ### Do you want to contact me?
 
-- 📱: +79277036049
-- 📧: alex95po@gmail.com
 
+[<img align="left" alt="alpobaggins | Gmail" width="60px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][gmail]
 [<img align="left" alt="alpobaggins | Telegram" width="60px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][telegram]
 [<img align="left" alt="alpobaggins | WA" width="60px" src="https://img.icons8.com/color/344/whatsapp--v5.png" />][WA]
-[<img align="left" alt="alpobaggins | VK" width="60px" src="https://img.icons8.com/color/344/vk-com.png" />][vk]
+[<img align="left" alt="alpobaggins | VK" width="60px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/VK.svg" />][vk]
 <br/>
 <br/>
 <br/>
@@ -54,6 +60,6 @@ ____
 
 
 [telegram]: https://t.me/alpobaggins
-[git]: https://github.com/alpobaggins
+[gmail]: mailto:alex95po@gmail.com
 [VK]: https://vk.com/alpo95
 [WA]: https://wa.me/79277036049
