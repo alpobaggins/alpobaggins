@@ -17,7 +17,7 @@ ____
 <br/>
 <br/>
 <br/>
-<img align="left" alt="NodeJS" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" />
+<img align="left" alt="NodeJS" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg" />
 <img align="left" alt="Express" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" />
 <img align="left" alt="PostgreSQL" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" />
 <img align="left" alt="Sequelize" width="60px" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" />
