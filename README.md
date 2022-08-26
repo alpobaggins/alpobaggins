@@ -5,24 +5,20 @@ I love football, mixed martial arts, stand-up, movies and traveling. My dream is
 Oh...or you wanted to know more about my professional skills?
 ____
 
-### My Skills:
+### What can I do?
 
-<img align="left" alt="HTML" width="60px" src="https://img.icons8.com/color/344/html-5--v1.png" />
-<img align="left" alt="CSS" width="60px" src="https://img.icons8.com/color/344/css3.png" />
-<img align="left" alt="JavaScript" width="60px" src="https://img.icons8.com/color/344/javascript--v2.png" />
-<img align="left" alt="React" width="60px" src="https://img.icons8.com/color/344/react-native.png" />
-<img align="left" alt="Redux" width="60px" src="https://img.icons8.com/color/344/redux.png" />
-<img align="left" alt="API" width="60px" src="https://img.icons8.com/nolan/344/api-settings.png" />
-<img align="left" alt="NodeJS" width="60px" src="https://img.icons8.com/fluency/344/node-js.png" />
-<img align="left" alt="Express" width="60px" src="https://stickker.net/wp-content/uploads/2016/01/express.svg_.png" />
-<img align="left" alt="PostgreSQL" width="60px" src="https://img.icons8.com/color/344/postgreesql.png" />
-<img align="left" alt="Bootstrap" width="60px" src="https://img.icons8.com/color/344/bootstrap.png" />
-<br/>
-<br/>
-<br/>
-
-
-And also: Sequelize, Sessions, BCrypt, Drag&Drop, Multer, Figma etc.
+<img align="left" alt="HTML" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" />
+<img align="left" alt="CSS" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" />
+<img align="left" alt="JavaScript" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" />
+<img align="left" alt="React" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" />
+<img align="left" alt="Redux" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" />
+<img align="left" alt="Bootstrap" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" />
+<img align="left" alt="Figma" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg" />
+<img align="left" alt="NodeJS" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" />
+<img align="left" alt="Express" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" />
+<img align="left" alt="PostgreSQL" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" />
+<img align="left" alt="Sequelize" width="60px" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" />
+<img align="left" alt="Jest" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jest.svg" />
 <br/>
 <br/>
 
