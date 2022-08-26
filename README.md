@@ -14,6 +14,9 @@ ____
 <img align="left" alt="Redux" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" />
 <img align="left" alt="Bootstrap" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" />
 <img align="left" alt="Figma" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg" />
+<br/>
+<br/>
+
 <img align="left" alt="NodeJS" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" />
 <img align="left" alt="Express" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" />
 <img align="left" alt="PostgreSQL" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" />
@@ -21,6 +24,8 @@ ____
 <img align="left" alt="Jest" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jest.svg" />
 <br/>
 <br/>
+<br/>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alpobaggins&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
