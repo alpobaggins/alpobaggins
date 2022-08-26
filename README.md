@@ -17,7 +17,7 @@ ____
 <br/>
 <br/>
 <br/>
-<img align="left" alt="NodeJS" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" />
+<img align="left" alt="NodeJS" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" />
 <img align="left" alt="Express" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" />
 <img align="left" alt="PostgreSQL" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" />
 <img align="left" alt="Sequelize" width="60px" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" />
@@ -33,7 +33,7 @@ ____
 
 ____ 
 
-### My contacts:
+### Do you want to contact me?
 
 - 📱: +79277036049
 - 📧: alex95po@gmail.com
