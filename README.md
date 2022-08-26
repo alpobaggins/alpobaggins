@@ -7,6 +7,7 @@ ____
 
 ### What can I do?
 
+Frontend:
 <img align="left" alt="HTML" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" />
 <img align="left" alt="CSS" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" />
 <img align="left" alt="JavaScript" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" />
@@ -17,7 +18,8 @@ ____
 <br/>
 <br/>
 <br/>
-<img align="left" alt="NodeJS" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg" />
+Backend:
+<img align="left" alt="NodeJS" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" />
 <img align="left" alt="Express" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" />
 <img align="left" alt="PostgreSQL" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" />
 <img align="left" alt="Sequelize" width="60px" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" />
