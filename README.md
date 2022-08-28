@@ -2,7 +2,7 @@
 
 I love football, mixed martial arts, stand-up, movies and traveling. My dream is to have a dog.
 
-Oh...or you wanted to know more about my professional skills?
+Oh...or you want to know more about my professional skills, don’t you?
 ____
 
 ### What can I do?
